@@ -16,7 +16,7 @@
 
 ## 我的博客🌌
 
-[timeStarry's Blog](https://timestarry.github.io/)
+[timeStarry's Blog](https://blog.tsio.top/)
 
 刚刚开始写，感谢各位大佬指导！😃
 
